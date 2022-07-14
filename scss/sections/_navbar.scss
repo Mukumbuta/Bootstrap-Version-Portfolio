@@ -1,0 +1,15 @@
+@use '../custom' as *;
+
+.my-menu {
+    background: $primary;
+
+    li {
+        padding: 0 0.7rem;
+    }
+
+    a {
+        color: $white !important;
+        font-weight: 600;
+    }
+
+}
