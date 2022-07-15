@@ -10722,6 +10722,54 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.display-2 {
+  margin-top: 120px;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+  padding: 0 24px;
+}
+.display-2--intro {
+  display: inline-block;
+  font-family: "Crete Round", sans-serif;
+  color: #f55800;
+  font-weight: 200;
+  font-size: 65px;
+  line-height: 82px;
+  letter-spacing: 0.37px;
+}
+.display-2--intro-2 {
+  font-size: 1rem;
+  display: block;
+  color: #fff5e1;
+  margin-top: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+}
+.display-2--description {
+  font-size: 1rem;
+  display: block;
+  color: #fff5e1;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #fff;
+  margin-bottom: 22px;
+  margin-top: 1.5rem;
+  text-transform: none;
+}
+
+.media-icons {
+  margin-top: 10rem;
+  list-style-type: none;
+}
+.media-icons li {
+  padding-top: 2rem;
+  margin-right: 40px;
+}
+
 .my-menu {
   background: #3c3a39;
 }
@@ -10731,6 +10779,13 @@ textarea.form-control-lg {
 .my-menu a {
   color: #fff !important;
   font-weight: 600;
+}
+
+.intro-section {
+  background: #1c1a19;
+  padding: 10rem 0 0 0;
+  width: 100%;
+  height: 850px;
 }
 
 /*# sourceMappingURL=style.css.map */
