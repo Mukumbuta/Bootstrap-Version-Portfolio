@@ -13,15 +13,14 @@ $blue:     #091e42;
 $orange-light:   #ff6b00;
 
 // html bootstrap ruby button color
-$gray-600: rgba(255, 255, 255, 0.24);
 
 // scss-docs-start gray-color-variables
-$white:    #fff;
+$white:      #fff;
 $gray-100: #f8f9fa;
 $gray-200: #e9ecef;
 $gray-300: #dee2e6;
 $gray-400: #ced4da;
-$gray-700: #495057;
+$gray-700: #8993a4;
 $gray-800: #343a40;
 
 
@@ -29,7 +28,7 @@ $gray-800: #343a40;
 $primary:       $gray-dark;
 $secondary:     $gray-light;
 $yellow:        $orange-light;
-  
+$gray-600:      $gray-700;
 // import Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 

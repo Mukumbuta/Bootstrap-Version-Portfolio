@@ -52,3 +52,22 @@
         margin-right: 40px;
     }
 }
+
+.skills-container {
+    li {
+        list-style: none;
+        border: 1px solid $gray-600;
+        padding: 12px;
+    }
+
+    .skills {
+        margin-left: -6%;
+        margin-top: 24px;
+    }
+}
+
+
+.about-me {
+    color: $white;
+    margin-top: 120px;
+}
